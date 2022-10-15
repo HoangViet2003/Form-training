@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Formilk from "./Formilk";
 
 function App() {
   return (
     <div className="App">
-     sf
+      <Formilk />
     </div>
   );
 }
